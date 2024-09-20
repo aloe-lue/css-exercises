@@ -62,6 +62,7 @@ button {
   opacity: 30%;
 }
 
+/* solution */
 .backdrop {
   transition: opacity 300ms ease-in-out;
 }
